@@ -1,6 +1,6 @@
 WindowsStandalone
 PlayerPath?
-R:/GitHub/Unity3DSITEMinicurso/SITE2018/SITE2018.exe
+R:/GitHub/Unity3DSITEMinicurso/SITE2018/build/SITE2018.exe
 SceneListBegin?
 Assets/Scenes/SampleScene.unity
 SceneListEnd?
